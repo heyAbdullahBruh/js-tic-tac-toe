@@ -1,0 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #1618;
+    font-family: monospace;
+}
+
